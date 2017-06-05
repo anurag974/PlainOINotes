@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\exploded-aar\com.github.markushi\circlebutton\1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\pre-dexed\debug\com.github.markushi-circlebutton-1.1_07a30095e00ff4f80458e8ae0a3003baddecadca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_821fd7f5e7fea19713e87dc3ae6f603645bb1238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag gupta\AppData\Local\Android\Androidsdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_3056afd88b508dc46e98305a2ea2592235d124e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_67c589219ef7c9b0cdeb9b77eab39ddb52868cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\anurag gupta\Downloads\PlainOlNotes\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_5ea0d2b5f580feb7196c68fcea23b1037b94cdab.jar" />
+    </item>
+
+</items>
